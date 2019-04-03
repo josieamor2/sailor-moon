@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/sailor-moon/precache-manifest.0b87e3644d565c8495621197a8f124c2.js"
+  "/sailor-moon/precache-manifest.8ef6f9ddfdc135586d188c68948d354f.js"
 );
 
 workbox.clientsClaim();
